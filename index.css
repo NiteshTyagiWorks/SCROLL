@@ -16,26 +16,31 @@ section {
 	scroll-behavior: smooth;
 }
 
-.scrollbar {
-	position: fixed;
-}
 .container {
 	scroll-snap-type: y mandatory;
 	overflow-y: scroll;
 	height: 100vh;}
 
 .one {
-	background: rgb(244,206,167);
+	background: #F2CDA0;
 }
 
 .two {
-	background: rgb(200,230,227);
+	background: #3C4359;
 }
 
 .three {
-	background: rgba(255,159,172,255);
+	background: #F29BAB;
 }
 
 .four {
-	background: rgb(154,203,184);
+	background: #99F2D1;
+}
+
+.five {
+	background: #3C4359;
+}
+
+.six {
+	background: #3C4359;
 }
